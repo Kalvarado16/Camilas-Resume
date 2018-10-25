@@ -1,0 +1,28 @@
+
+H1{ font-family: 'Charmonman', cursive;
+    color: purple;
+    background-color:#80f2e6;
+}
+h3{ background-color: orange;
+    font-family: 'Charmonman', cursive;
+    color: yellow;
+}
+h2{ color:red;
+    font-family: 'Charmonman', cursive;
+    background-color:yellow;
+}
+img{ 
+    width: 300px;
+    border-style: dashed;
+    color:green;
+}
+body{   
+    text-align: center;
+}
+ul{
+    color:pink;
+}                    
+ol{
+    color:#80f2e6;
+}
+    
